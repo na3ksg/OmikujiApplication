@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">おみくじ</string>
+    <string name="kuji_start">左に傾けて、くじを出しましょう！</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_kuji">KujiActivity</string>
+
+    <string-array name="kuji_message">
+        <item>やったぜ大吉</item>
+        <item>中吉</item>
+        <item>吉</item>
+        <item>残念、凶</item>
+        <item>無念、大凶</item>
+    </string-array>
+
+    <string name="kuji_str">運勢を表示</string>
+</resources>
